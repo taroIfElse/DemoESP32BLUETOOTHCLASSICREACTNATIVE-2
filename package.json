@@ -10,16 +10,31 @@
   },
   "dependencies": {
     "expo": "~44.0.0",
+    "expo-splash-screen": "~0.14.1",
     "expo-status-bar": "~1.2.0",
+    "fs": "^0.0.1-security",
+    "printf": "^0.6.1",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-native": "0.64.3",
     "react-native-bluetooth-classic": "^1.60.0-rc.20",
-    "react-native-web": "0.17.1",
-    "expo-splash-screen": "~0.14.1"
+    "react-native-web": "0.17.1"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
   },
-  "private": true
+  "private": true,
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taroIfElse/DemoESP32BLUETOOTHCLASSICREACTNATIVE-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taroIfElse/DemoESP32BLUETOOTHCLASSICREACTNATIVE-2/issues"
+  },
+  "homepage": "https://github.com/taroIfElse/DemoESP32BLUETOOTHCLASSICREACTNATIVE-2#readme",
+  "description": ""
 }
